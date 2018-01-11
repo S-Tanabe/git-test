@@ -1,0 +1,9 @@
+{
+    "name": "foxware-web",
+    "scripts": {
+        "dev": "nuxt"
+    },
+    "dependencies": {
+        "nuxt": "^1.0.0"
+    }
+}
